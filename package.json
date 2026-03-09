@@ -1,0 +1,6 @@
+{
+  "name": "paybot",
+  "version": "1.0.0",
+  "description": "SC88 Payment Info Telegram Bot",
+  "private": true
+}
